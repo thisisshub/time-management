@@ -1,0 +1,8 @@
+total 216376
+drwxrwxrwx 1 shub shub        0 Nov  1 07:33 System Volume Information
+-rwxrwxrwx 1 shub shub 33443558 Nov  1 08:10 y2mate.com - all_songs_of_bobby_1973_rishi_kapoor_dimple_hd_jukebox_evergreen_hindi_romantic_songs_AdRPZ4DYy-I (1).mp3
+-rwxrwxrwx 1 shub shub 50234929 Nov  1 07:37 y2mate.com - best_of_jagjit_singh_ghazals_jukebox_a_tribute_to_the_king_of_ghazals_vmItxPZOVok.mp3
+-rwxrwxrwx 1 shub shub  6353952 Nov  1 08:14 y2mate.com - brothers_meet_yaadon_ki_baaraat_1973_DXtd7TzC9Uk.mp3
+-rwxrwxrwx 1 shub shub 43010365 Nov  1 07:35 y2mate.com - melody_queen_of_lata_mangeshkar_old_is_gold_hits_songs_by_old_collection_6ZhoV5F0ecA.mp3
+-rwxrwxrwx 1 shub shub 38886361 Nov  1 07:34 y2mate.com - rajesh_khanna_superhit_song_collection_hd_jukebox_1_top_10_old_hindi_classic_songs_hd_bdKh5prlnjM.mp3
+-rwxrwxrwx 1 shub shub 49630978 Nov  1 07:37 y2mate.com - shyam_teri_bansi_pukare_radha_naam_very_beautiful_song_popular_krishna_bhajan_full_song_D9zhvsmDckk.mp3

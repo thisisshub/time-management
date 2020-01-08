@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "/home/shub/anaconda3/envs/time-management/bin/python",
-    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=8983557a22da6ff64290ca2d22b91137229af48d76526e4c"
+    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8888/?token=987621dfcfe180e71cc8791b2383bbb8fc314dcf3b7b636f"
 }
